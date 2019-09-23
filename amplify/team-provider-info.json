@@ -1,0 +1,14 @@
+{
+    "mobile": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-test-mobile-20190920155637-authRole",
+            "UnauthRoleArn": "arn:aws:iam::103005060676:role/amplify-test-mobile-20190920155637-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::103005060676:role/amplify-test-mobile-20190920155637-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-test-mobile-20190920155637-deployment",
+            "UnauthRoleName": "amplify-test-mobile-20190920155637-unauthRole",
+            "StackName": "amplify-test-mobile-20190920155637",
+            "StackId": "arn:aws:cloudformation:us-east-1:103005060676:stack/amplify-test-mobile-20190920155637/855a9c20-dbf1-11e9-a352-0a522351f81e"
+        }
+    }
+}
